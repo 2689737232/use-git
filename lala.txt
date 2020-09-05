@@ -7,3 +7,15 @@ lala的文件
 // 当git pull 拉取的代码有问题时候
 //    1. git reflog 查看历史记录
 //    2. 找到之前的记录 通过git reset --hard xxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
+xxxxxxxxx
