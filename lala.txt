@@ -8,3 +8,8 @@ lala的文件
 recruiting 招聘
 pagination 分页
 literally 不夸张的
+
+新版git使用 restore(恢复)代替了checkout
+使用git restore xxx.xx  可以清空修改，如果是已经添加到暂存区的会回到暂存区里的样子。
+
+删除文件 删除文件后git会有提示，通过命令git rm xxxx删除文件再commit
