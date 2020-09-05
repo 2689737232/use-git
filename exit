@@ -1,0 +1,101 @@
+[33mcommit 5c49a97bf12e7945a984237cc8593e2d61928ba6[m[33m ([m[1;36mHEAD -> [m[1;32mlala[m[33m)[m
+Author: 2689737232 <2689737232@qq.com>
+Date:   Sat Sep 5 09:47:32 2020 +0800
+
+    版本回退测试
+
+[33mcommit c9b0edcc2fe2dbc20431a8dbfad3103e0e834adc[m[33m ([m[1;31mlala/lala[m[33m)[m
+Author: 2689737232 <2689737232@qq.com>
+Date:   Sat Sep 5 09:43:22 2020 +0800
+
+    添加单词
+
+[33mcommit bf7b760211d8336941faf6422bdf29a3dc9f833f[m[33m ([m[1;31morigin/lala[m[33m)[m
+Author: 2689737232 <2689737232@qq.com>
+Date:   Fri Sep 4 20:55:30 2020 +0800
+
+    在lala分支下添加了内容
+
+[33mcommit 6620c0fd5712c33a5c67a536424c71fb71f822b6[m[33m ([m[1;31myeye/lala[m[33m)[m
+Author: 2689737232 <2689737232@qq.com>
+Date:   Fri Sep 4 20:29:48 2020 +0800
+
+    在lala项目文件下添加一行
+
+[33mcommit 03d8e0c6c27c46a86276d27a11ea38aed28a36f8[m
+Merge: 9d4e177 ab4ec91
+Author: 2689737232 <2689737232@qq.com>
+Date:   Fri Sep 4 20:29:02 2020 +0800
+
+    Merge branch 'master' into lala
+
+[33mcommit ab4ec916722802f3a23d7848aa73e0d6c10acfc4[m[33m ([m[1;31myeye/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mlala/master[m[33m)[m
+Author: 2689737232 <2689737232@qq.com>
+Date:   Fri Sep 4 20:28:28 2020 +0800
+
+    修改lala项目文件
+
+[33mcommit bf061cb86f9f120a8c9163c0181e776f4a3fac79[m
+Merge: b12e484 7f55c6f
+Author: 2689737232 <2689737232@qq.com>
+Date:   Fri Sep 4 20:27:50 2020 +0800
+
+    Merge branch 'master' of github.com:2689737232/use-git into master
+
+[33mcommit b12e484c4374607bd7072fc4af16f994f1078d9f[m
+Author: 2689737232 <2689737232@qq.com>
+Date:   Fri Sep 4 20:26:43 2020 +0800
+
+    添加lala文件
+
+[33mcommit 9d4e177d4630005a81147c7948378780e34d20f6[m
+Merge: 13ceab1 e725c00
+Author: 2689737232 <2689737232@qq.com>
+Date:   Fri Sep 4 17:01:05 2020 +0800
+
+    合并分支
+
+[33mcommit 7f55c6f076fe390172a769dfba4903131e81ec9d[m
+Merge: 973a2c5 13ceab1
+Author: 2689737232 <42050217+2689737232@users.noreply.github.com>
+Date:   Fri Sep 4 16:53:25 2020 +0800
+
+    Merge pull request #1 from 2689737232/lala
+    
+    lala添加了内容
+
+[33mcommit e725c00078f86fe56ef02e48c96ee3c128af5ede[m
+Author: 2689737232 <2689737232@qq.com>
+Date:   Fri Sep 4 16:45:04 2020 +0800
+
+    yeye添加了内容
+
+[33mcommit 13ceab1b9f1ba90b5820a64614b174ee03674453[m
+Author: 2689737232 <2689737232@qq.com>
+Date:   Fri Sep 4 16:44:07 2020 +0800
+
+    lala添加了内容
+
+[33mcommit 973a2c5172f24bbc4f274804ac20df0acef77e56[m
+Author: 2689737232 <2689737232@qq.com>
+Date:   Fri Sep 4 16:40:30 2020 +0800
+
+    添加了像素鸟文件夹
+
+[33mcommit d4668fb70a59ec76e50bb40165f148005a23a09c[m
+Author: 2689737232 <2689737232@qq.com>
+Date:   Fri Sep 4 16:38:56 2020 +0800
+
+    修改了lala.txt
+
+[33mcommit 5501263338965dcdc61a40592416f4ea2d17b2ea[m
+Author: 2689737232 <2689737232@qq.com>
+Date:   Fri Sep 4 16:36:25 2020 +0800
+
+    第二次提交 添加了两个文件
+
+[33mcommit 5ba0feacbe68981017bcb3481bd537288338cfc0[m
+Author: 2689737232 <2689737232@qq.com>
+Date:   Fri Sep 4 16:33:29 2020 +0800
+
+    第一次提交
